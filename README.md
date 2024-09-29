@@ -17,9 +17,8 @@ Finding all slides listed on a webpage waiting to be downloaded, I figured creat
 # Note
 1. This program currently only supports downloading pdf and ppt files (support for other formats may be added later).
 2. For bug-free experiences, preferably your files are supposed to be in situations like this:
-<img width="458" alt="webpage demo" src="https://github.com/pppiyo/LifeHacks/assets/31379013/8c42e7c3-f614-4b19-939b-f970c632c15f">
+<img width="458" alt="webpage demo" src="https://github.com/pppiyo/File_Downloader/blob/master/webpage%20demo.png">
 
   That is to say, 1) you have a parent link which leads you to see a page like this; 2) each file has its own link provided.<br><br>
 3. Outcome will be like the following. You should be able to find the files in the folder where FileDownloader.py is.<br>
-
-   <img width="1017" alt="code effect" src="https://github.com/pppiyo/LifeHacks/assets/31379013/00905cc5-6990-4151-8446-ff3792d78252">
+<img width="916" alt="webpage demo" src="https://github.com/pppiyo/File_Downloader/blob/master/code%20effect.png">
